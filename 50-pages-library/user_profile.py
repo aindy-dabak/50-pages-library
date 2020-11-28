@@ -34,7 +34,7 @@ class Profile():
             if i == User_Id:
                 print(self.index)
                 break
-        self.__user_id = User_Id
+        self._user_id = User_Id
         
             
             
